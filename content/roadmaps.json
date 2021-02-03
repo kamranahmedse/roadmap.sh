@@ -135,6 +135,46 @@
   },
   {
     "seo": {
+      "title": "React Developer Roadmap: Learn to become a React developer",
+      "description": "Community driven, articles, resources, guides, interview questions, quizzes for react development. Learn to become a modern React developer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "guide to becoming a react developer",
+        "react developer roadmap",
+        "react roadmap",
+        "become react developer",
+        "react developer skills",
+        "react skills test",
+        "skills for react development",
+        "learn react development",
+        "what is react",
+        "react quiz",
+        "react interview questions"
+      ]
+    },
+    "title": "React Developer",
+    "description": "Everything that is there to learn about React and the ecosystem in 2020.",
+    "featuredDescription": "Everything that is there to learn about React and the ecosystem in 2020.",
+    "isTextHeavy": false,
+    "communityResource": false,
+    "featured": true,
+    "path": "/roadmaps/4-react/landscape.md",
+    "resources": "/roadmaps/4-react/resources.md",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "contributorsCount": 1,
+    "contributorsUrl": "/react/contributors",
+    "url": "/react",
+    "sidebar": {}
+  },
+  {
+    "seo": {
       "title": "Android Developer Roadmap: Learn to become an Android developer",
       "description": "Community driven, articles, resources, guides, interview questions, quizzes for android development. Learn to become a modern Android developer by following the steps, skills, resources and guides listed in this roadmap.",
       "keywords": [
@@ -289,6 +329,47 @@
     "contributorsCount": 1,
     "contributorsUrl": "/qa/contributors",
     "url": "/qa",
+    "sidebar": {}
+  },
+  {
+    "seo": {
+      "title": "Learn to become a modern Machine Learning Engineer",
+      "description": "Learn to become a modern Machine Learning Engineer by following the steps, skills, resources and guides listed in this roadmap.",
+      "keywords": [
+        "guide to becoming a machine learning engineer",
+        "artificial intelligence",
+        "data science",
+        "machine learning",
+        "deep learning",
+        "convolutional neural network",
+        "recurrent neural network",
+        "machine learning skills",
+        "machine learning skills test",
+        "machine learning engineer roadmap",
+        "become a machine learning engineer",
+        "machine learning engineer career path",
+        "skills for machine learning engineer",
+        "learn machine learning",
+        "what is machine learning"
+      ]
+    },
+    "title": "Machine Learning Engineer",
+    "description": "Step by step guide to becoming a machine learning engineer",
+    "featuredDescription": "Step by step guide to becoming a machine learning engineer in 2020",
+    "author": {
+      "name": "Simit Tomar",
+      "url": "https://github.com/SimitTomar"
+    },
+    "featured": false,
+    "detailed": false,
+    "path": "/roadmaps/7-machine-learning/landscape.md",
+    "resources": "/roadmaps/7-machine-learning/resources.md",
+    "versions": [
+      "latest"
+    ],
+    "contributorsCount": 0,
+    "contributorsUrl": "/machine-learning/contributors",
+    "url": "/machine-learning",
     "sidebar": {}
   }
 ]
